@@ -1,0 +1,28 @@
+name: 'Armour '
+favicon: null
+layout_spectrum: 0.6776351467706263
+typography_spectrum: 0.42659337422810495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.26738238614052534
+  lightness: 0.9493246781639755
+  saturation: 0.8217146820388734
+  rhythmicContrast: 0.2079729256220162
+purpose: []
